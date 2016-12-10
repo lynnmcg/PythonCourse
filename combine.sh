@@ -1,5 +1,6 @@
 # add header to chromosome gene data
 # Last Modified Sat Dec 10, 2016
+# For questions contact <lynn.mcgregor@ucsf.edu>
 echo "Starting combining files"
 
 #alter so that it will take a folder as an argument using $1, similar to sys.argv
